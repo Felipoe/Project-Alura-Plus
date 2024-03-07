@@ -16,7 +16,7 @@ body {
     background-color: var(--cor-background);
     color: var(--branco-principal);
     font-family: var(--fonte-principal);
-    font-size: 1em;
+    font-size: 1rem;
     font-weight: 400;
 }
 
@@ -41,7 +41,7 @@ body {
 }
 
 .container-titulo {
-    font-size: 1.75em;
+    font-size: 1.75rem;
     font-weight: 700;
 }
 
@@ -51,7 +51,7 @@ body {
 
 .container-botao {
     background-color: var(--azul-terciario);
-    border-radius: 0.5em;
+    border-radius: 0.5rem;
     padding: 1em;
     color: var(--branco-principal);
     display: block;
@@ -66,7 +66,7 @@ body {
 
 .container-aviso {
     color: var(--cinza-secundario);
-    font-size: 0.75em;
+    font-size: 0.75rem;
 
 }
 
@@ -81,7 +81,7 @@ body {
 }
 
 .descricao-titulo {
-    font-size: 3em;
+    font-size: 3rem;
     font-weight: 700;
     color: var(--branco-principal);
     margin-bottom: 0.3em;
@@ -89,7 +89,7 @@ body {
 
 .descricao-texto {
     color: var(--cinza-secundario);
-    font-size: 1em;
+    font-size: 1rem;
 }
 
 .botao-assine {
@@ -103,7 +103,7 @@ body {
 
 .dispositivos-titulo {
     text-align: center;
-    font-size: 3em;
+    font-size: 3rem;
     font-weight: 700;
     margin-bottom: 4rem;
 
@@ -117,7 +117,7 @@ body {
 }
 
 .lista-item {
-    font-size: 2em;
+    font-size: 2rem;
 }
 
 
@@ -146,12 +146,12 @@ body {
 .link {
     color: var(--cinza-secundario);
     text-decoration: none;
-    font-size: 1em;
+    font-size: 1rem;
 }
 
 .rodape-texto {
     text-align: center;
-    font-size: 0.875em;
+    font-size: 0.875rem;
     color: var(--cinza-secundario);
     margin-top: 2rem;
 
